@@ -2,9 +2,11 @@
 course materials, AI for Health and Bio Science
 
 ## to do for genomic AI primer
-add SHAP value
+Add SHAP value
 
-convert to pytorch
+Convert to pytorch
+
+Apply transformer on this data set.
 
 ## Todo for kaggle healtcare data
 
