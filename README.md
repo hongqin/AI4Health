@@ -1,6 +1,11 @@
 # AI4Health
 course materials, AI for Health and Bio Science
 
+## to do for genomic AI primer
+add SHAP value
+
+convert to pytorch
+
 ## Todo for kaggle healtcare data
 
 add debug switch to randomly sampled small data set. 
