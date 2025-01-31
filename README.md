@@ -18,3 +18,4 @@ https://www.kaggle.com/code/skuracha/eda-on-healthcare-dataset
 # To do
 inference attack on AI models
 
+how to deal with big data using data loader
