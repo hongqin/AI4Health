@@ -12,10 +12,16 @@ add debug switch to randomly sampled small data set.
 
 convert numerical and categroical data, one-hot encoding versus label encoding. 
 
-# Kaggle data set is from
+# Kaggle data sets are from
 https://www.kaggle.com/code/skuracha/eda-on-healthcare-dataset
+
+https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia/data
 
 # To do
 inference attack on AI models
 
 how to deal with big data using data loader
+
+# On ODU Wahab
+For plot, need to add \%matplotlib inline
+
