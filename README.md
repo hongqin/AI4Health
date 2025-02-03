@@ -21,3 +21,7 @@ https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia/data
 inference attack on AI models
 
 how to deal with big data using data loader
+
+# On ODU Wahab
+For plot, need to add \%matplotlib inline
+
