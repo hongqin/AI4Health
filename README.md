@@ -6,6 +6,10 @@ Add SHAP value
 
 Ref: https://chatgpt.com/share/679443c7-a80c-800c-8d0a-aab47b5781dd 
 
+# On ODU Wahab
+For plot, need to add \%matplotlib inline
+
+
 ## Todo for kaggle healtcare data
 
 add debug switch to randomly sampled small data set. 
@@ -20,8 +24,7 @@ https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia/data
 # To do
 inference attack on AI models
 
-how to deal with big data using data loader
+data loader
 
-# On ODU Wahab
-For plot, need to add \%matplotlib inline
+Reinforcement learning (RL)
 
