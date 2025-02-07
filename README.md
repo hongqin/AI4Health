@@ -1,10 +1,15 @@
 # AI4Health
 course materials, AI for Health and Bio Science
 
-## Genomic AI primer
+# Unit 1 Genomic AI Primer
 Add SHAP value
 
 Ref: https://chatgpt.com/share/679443c7-a80c-800c-8d0a-aab47b5781dd 
+
+# Unit 2 Biomedical Image Analysis
+
+https://github.com/AI-in-Biomedical-Science/python-bioimage-analysis-tutorial
+
 
 # On ODU Wahab
 For plot, need to add \%matplotlib inline
