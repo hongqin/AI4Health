@@ -11,7 +11,7 @@ Ref: https://chatgpt.com/share/679443c7-a80c-800c-8d0a-aab47b5781dd
 https://github.com/AI-in-Biomedical-Science/python-bioimage-analysis-tutorial
 
 
-# On ODU Wahab
+# On-demand ODU Wahab
 For plot, need to add \%matplotlib inline
 
 
