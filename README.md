@@ -26,6 +26,9 @@ https://www.kaggle.com/code/skuracha/eda-on-healthcare-dataset
 
 https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia/data
 
+# ESM now has its own separate GitHub repo
+https://github.com/evolutionaryscale/esm/tree/main
+
 # To do
 inference attack on AI models
 
